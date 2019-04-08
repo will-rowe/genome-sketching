@@ -15,6 +15,7 @@ dependencies:
   - lighter==1.1.2
   - sourmash==2.0.0
   - groot==0.8.4
+  - minimap2==2.16
   - pip:
     - nbimporter==0.3.1
     - datasketch==1.4.3
