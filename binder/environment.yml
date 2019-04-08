@@ -1,0 +1,26 @@
+name: genome-sketching
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.6.5=1
+  - pip=19.0.3=py36_0
+  - nb_conda
+  - wget
+  - sra-tools==2.9.1_1
+  - trimmomatic==0.39
+  - screed=1.0
+  - khmer==3.0.0a2
+  - lighter==1.1.2
+  - sourmash==2.0.0
+  - groot==0.8.4
+  - bandage==
+
+  - pip:
+    - nbimporter==0.3.1
+    - datasketch==1.4.3
+    - matplotlib-venn==0.11.5
+    - mmh3==2.5.1
+prefix: /anaconda3/envs/sketching-review
+
