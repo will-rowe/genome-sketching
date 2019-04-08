@@ -15,11 +15,10 @@ dependencies:
   - lighter==1.1.2
   - sourmash==2.0.0
   - groot==0.8.4
-
   - pip:
     - nbimporter==0.3.1
     - datasketch==1.4.3
     - matplotlib-venn==0.11.5
     - mmh3==2.5.1
-prefix: /anaconda3/envs/sketching-review
+
 

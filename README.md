@@ -31,7 +31,8 @@ If you've not used a Jupyter notebook before, just hit "shift + enter" to run a 
 
 To run the workbooks interactively from your browser, use Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/will-rowe/genome-sketching/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/will-rowe/genome-sketching/master?filepath=notebooks)
+
 
 ## Running the workbooks locally
 
