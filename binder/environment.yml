@@ -15,7 +15,6 @@ dependencies:
   - lighter==1.1.2
   - sourmash==2.0.0
   - groot==0.8.4
-  - bandage==
 
   - pip:
     - nbimporter==0.3.1
