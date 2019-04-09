@@ -17,10 +17,10 @@ The notebooks correspond to the sections in the paper:
     -   [3.4 Set cardinality with HyperLogLog](./notebooks/r3.4.Set-cardinality-with-HyperLogLog.ipynb)
 * Example workflows
     -   [4.1 Overview](./notebooks/r4.1.Workflows-for-genomics.ipynb)
-    -   [4.2 Quality check samples](r4.2.Sample-QC.ipynb)
-    -   [4.3 AMR gene profiling](r4.3.Resistome-profiling.ipynb)
-    -   [4.4 Phylogenetic trees](r4.4.Phylogeny.ipynb)
-    -   [4.5 Data mining](r4.5.Data-mining.ipynb)
+    -   [4.2 Sample QC](./notebooks/r4.2.Sample-QC.ipynb)
+    -   [4.3 Resistome profiling](./notebooks/r4.3.Resistome-profiling.ipynb)
+    -   [4.4 Outbreak surveillance](./notebooks/r4.4.Outbreak-surveillance.ipynb)
+    -   [4.5 Data mining](./notebooks/r4.5.Data-mining.ipynb)
 
 I've also included a notebook to cover some basic concepts (e.g. *k-mer decomposition*). This notebook is called [Background](./notebooks/Background.ipynb) and we save ourselves some time later by importing the functions from this notebook into the other notebooks (e.g. for reading sequence data files).
 
