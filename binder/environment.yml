@@ -18,9 +18,9 @@ dependencies:
   - minimap2==2.16
   - pysam==0.15.2
   - mashtree=0.30
+  - ete3==3.1.1
   - pip:
     - nbimporter==0.3.1
     - datasketch==1.4.3
     - matplotlib-venn==0.11.5
     - mmh3==2.5.1
-    - biopython==1.73
