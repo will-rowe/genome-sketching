@@ -17,7 +17,7 @@ dependencies:
   - groot==0.8.4
   - minimap2==2.16
   - pysam==0.15.2
-  - mashtree-0.30
+  - mashtree=0.30
   - pip:
     - nbimporter==0.3.1
     - datasketch==1.4.3
