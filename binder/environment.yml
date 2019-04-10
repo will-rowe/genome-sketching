@@ -19,6 +19,7 @@ dependencies:
   - pysam==0.15.2
   - mashtree=0.30
   - ete3==3.1.1
+  - qt
   - pip:
     - nbimporter==0.3.1
     - datasketch==1.4.3
