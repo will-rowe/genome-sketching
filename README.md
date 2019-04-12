@@ -17,12 +17,12 @@ This repository accompanies my review of sketching algorithms for genomic data:
 
 The notebooks correspond to the sections in the paper:
 
-* Sketching algorithms
+* Section 3: Sketching algorithms
     -   [3.1 Set similarity with MinHash](./notebooks/r3.1.Set-similarity-with-MinHash.ipynb)
     -   [3.2 Set membership with Bloom filter](./notebooks/r3.2.Set-membership-with-Bloom-filters.ipynb)
     -   [3.3 Element frequency with Count-Min sketch](./notebooks/r3.3.Element-frequency-with-Count-Min-sketch.ipynb)
     -   [3.4 Set cardinality with HyperLogLog](./notebooks/r3.4.Set-cardinality-with-HyperLogLog.ipynb)
-* Example workflows
+* Section 4: Example workflows for genomics
     -   [Overview](./notebooks/r4.0.Workflows-for-genomics.ipynb)
     -   [Workflow 1: Sample QC](./notebooks/r4.1.Sample-QC.ipynb)
     -   [Workflow 2: Resistome profiling](./notebooks/r4.2.Resistome-profiling.ipynb)
@@ -74,4 +74,4 @@ As well as the notebooks, this repository also contains a [curated list of bioin
 
 I'd like to thank Titus Brown and Luiz Irber, who not only got me onto Binder, but also inspired me to review the current sketching methods for genomics (thanks to their excellent [sourmash](https://github.com/dib-lab/sourmash) documentation and examples of MinHash for genomics).
 
-Thanks for [Francesco Mosconi](https://github.com/ghego/travis_anaconda_jupyter) for showing how to use Travis CI for build testing the notebooks.
+Thanks to [Francesco Mosconi](https://github.com/ghego/travis_anaconda_jupyter) for showing how to use Travis CI for build testing the notebooks.
