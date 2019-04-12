@@ -11,3 +11,7 @@ def _exec_notebook(path):
 
 def test():
     _exec_notebook('notebooks/Background.ipynb')
+    _exec_notebook('notebooks/r3.1.Set-similarity-with-MinHash.ipynb')
+    _exec_notebook('notebooks/r3.2.Set-membership-with-Bloom-filters.ipynb')
+    _exec_notebook('notebooks/r3.3.Element-frequency-with-Count-Min-sketch.ipynb')
+    _exec_notebook('notebooks/r3.4.Set-cardinality-with-HyperLogLog.ipynb')
