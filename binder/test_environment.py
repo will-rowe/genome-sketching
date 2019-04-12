@@ -10,4 +10,4 @@ def _exec_notebook(path):
 
 
 def test():
-    _exec_notebook('../notebooks/Background.ipynb')
+    _exec_notebook('notebooks/Background.ipynb')
