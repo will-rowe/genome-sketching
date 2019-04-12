@@ -1,8 +1,14 @@
-# Genome Sketching
+<div align="center">
+  <h1>Genome Sketching</h1>
+  <h3>a review of sketching algorithms for genomic data</h3>
+  <hr>
+  <a href="https://travis-ci.org/will-rowe/genome-sketching"><img src="https://travis-ci.org/will-rowe/genome-sketching.svg?branch=master" alt="travis"></a>
+  <a href="https://mybinder.org/v2/gh/will-rowe/genome-sketching/master?filepath=notebooks"><img src="https://mybinder.org/badge_logo.svg" alt="binder"></a>
+</div>
 
-> NOTE: still under development....
+***
 
-## About
+## Overview
 
 This repository accompanies my review of sketching algorithms for genomic data:
 
@@ -16,11 +22,11 @@ The notebooks correspond to the sections in the paper:
     -   [3.3 Element frequency with Count-Min sketch](./notebooks/r3.3.Element-frequency-with-Count-Min-sketch.ipynb)
     -   [3.4 Set cardinality with HyperLogLog](./notebooks/r3.4.Set-cardinality-with-HyperLogLog.ipynb)
 * Example workflows
-    -   [4.1 Overview](./notebooks/r4.1.Workflows-for-genomics.ipynb)
-    -   [4.2 Sample QC](./notebooks/r4.2.Sample-QC.ipynb)
-    -   [4.3 Resistome profiling](./notebooks/r4.3.Resistome-profiling.ipynb)
-    -   [4.4 Outbreak surveillance](./notebooks/r4.4.Outbreak-surveillance.ipynb)
-    -   [4.5 Data mining](./notebooks/r4.5.Data-mining.ipynb)
+    -   [Overview](./notebooks/r4.0.Workflows-for-genomics.ipynb)
+    -   [Workflow 1: Sample QC](./notebooks/r4.1.Sample-QC.ipynb)
+    -   [Workflow 2: Resistome profiling](./notebooks/r4.2.Resistome-profiling.ipynb)
+    -   [Workflow 3: Outbreak surveillance](./notebooks/r4.3.Outbreak-surveillance.ipynb)
+    -   [Workflow 4: Data mining](./notebooks/r4.4.Data-mining.ipynb)
 
 I've also included a notebook to cover some basic concepts (e.g. *k-mer decomposition*). This notebook is called [Background](./notebooks/Background.ipynb) and we save ourselves some time later by importing the functions from this notebook into the other notebooks (e.g. for reading sequence data files).
 
@@ -66,3 +72,5 @@ As well as the notebooks, this repository also contains a [curated list of bioin
 ## Notes
 
 I'd like to thank Titus Brown and Luiz Irber, who not only got me onto Binder, but also inspired me to review the current sketching methods for genomics (thanks to their excellent [sourmash](https://github.com/dib-lab/sourmash) documentation and examples of MinHash for genomics).
+
+Thanks for [Francesco Mosconi](https://github.com/ghego/travis_anaconda_jupyter) for showing how to use Travis CI for build testing the notebooks.
