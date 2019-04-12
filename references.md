@@ -1,4 +1,4 @@
-# 
+# List of genomics software utilising sketching algorithms
 
 | SOFTWARE  | PURPOSE  | SKETCHING ALGORITHM  |
 |---|---|---|
@@ -16,3 +16,7 @@
 | [krakenUniq](https://github.com/fbreitwieser/krakenuniq)  | metagenome classification  | HyperLogLog  |
 | [dashing](https://github.com/dnbaker/dashing)  | sequence analysis | HyperLogLog  |
 | [HULK](https://github.com/will-rowe/hulk)  | metagenome comparison and classification  | Histosketch  |
+
+***
+
+>last updated: 11.04.2019
