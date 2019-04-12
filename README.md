@@ -3,6 +3,7 @@
   <h3>a review of sketching algorithms for genomic data</h3>
   <hr>
   <a href="https://travis-ci.org/will-rowe/genome-sketching"><img src="https://travis-ci.org/will-rowe/genome-sketching.svg?branch=master" alt="travis"></a>
+  <a href="https://zenodo.org/badge/latestdoi/180174530"><img src="https://zenodo.org/badge/180174530.svg" alt="DOI"></a>
   <a href="https://mybinder.org/v2/gh/will-rowe/genome-sketching/master?filepath=notebooks"><img src="https://mybinder.org/badge_logo.svg" alt="binder"></a>
 </div>
 
