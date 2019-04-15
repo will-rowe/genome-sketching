@@ -13,7 +13,7 @@
 
 This repository accompanies my review of sketching algorithms for genomic data:
 
-> [When The Levee Breaks: a practical guide to sketching algorithms for processing the flood of genomic data]()
+> [When The Levee Breaks: a practical guide to sketching algorithms for processing the flood of genomic data](paper/genome-sketching-review.pdf)
 
 The notebooks correspond to the sections in the paper:
 
