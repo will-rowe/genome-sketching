@@ -20,8 +20,6 @@ The notebooks correspond to the sections in the paper:
 * Section 3: Sketching algorithms
     -   [3.1 Set similarity with MinHash](./notebooks/r3.1.Set-similarity-with-MinHash.ipynb)
     -   [3.2 Set membership with Bloom filter](./notebooks/r3.2.Set-membership-with-Bloom-filters.ipynb)
-    -   [3.3 Element frequency with Count-Min sketch](./notebooks/r3.3.Element-frequency-with-Count-Min-sketch.ipynb)
-    -   [3.4 Set cardinality with HyperLogLog](./notebooks/r3.4.Set-cardinality-with-HyperLogLog.ipynb)
 * Section 4: Example workflows for genomics
     -   [Overview](./notebooks/r4.0.Workflows-for-genomics.ipynb)
     -   [Workflow 1: Sample QC](./notebooks/r4.1.Sample-QC.ipynb)
