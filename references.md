@@ -13,6 +13,7 @@
 | [KmerGenie](http://kmergenie.bx.psu.edu/)                | sequence analysis                | ntCard                              |
 | [Lighter](https://github.com/mourisl/Lighter/)           | sequence error correction        | Bloom filter                        |
 | [MC-MinH](https://cs.gmu.edu/~mlbio/MC-MinH/)            | sequence clustering              | MinHash (KHF)                       |
+| [PopPUNK](https://www.poppunk.net)                       | sequence clustering              | MinHash (KMV)                       |
 | [MHAP](https://github.com/marbl/MHAP)                    | genome assembly                  | MinHash (KMV)                       |
 | [Mantis](https://github.com/splatlab/mantis)             | sequence index and search        | Counting Quotient Filter            |
 | [MashMap](https://github.com/marbl/mashmap)              | long read alignment              | MinHash (KMV)                       |
@@ -31,7 +32,6 @@
 | [ntCard](https://github.com/bcgsc/ntCard)                | sequence analysis                | ntCard                              |
 | [sourmash](https://github.com/dib-lab/sourmash)          | sequence analysis                | MinHash (KMV)                       |
 
-
 ***
 
->last updated: 27.08.2019
+>last updated: 16.09.2019
