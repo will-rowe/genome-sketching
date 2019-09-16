@@ -7,9 +7,9 @@
 | [BBsketch](https://github.com/BioInfoTools/BBMap)        | sequence analysis                | MinHash                             |
 | [BIGSI](https://github.com/phelimb/bigsi)                | sequence index and search        | Bloom filter                        |
 | [FastEtch](https://github.com/pghosh2/FastEtch)          | genome assembly                  | Count-Min Sketch                    |
-| [GROOT](https://github.com/will-rowe/groot)              | variant detection in metagenomes | MinHash (KHF)  
+| [GROOT](https://github.com/will-rowe/groot)              | variant detection in metagenomes | MinHash (KHF) 
 |
-| [HowDE Sequence Bloom Trees](https://github.com/medvedevgroup/HowDeSBT/) | sequence index and search | Bloom filter
+| [HowDE Sequence Bloom Trees](https://github.com/medvedevgroup/HowDeSBT/)  | sequence index and search | Bloom filter
 |
 | [HULK](https://github.com/will-rowe/hulk)                | sequence analysis                | Histosketch                         |
 | [KmerGenie](http://kmergenie.bx.psu.edu/)                | sequence analysis                | ntCard                              |
@@ -20,7 +20,7 @@
 | [MashMap](https://github.com/marbl/mashmap)              | long read alignment              | MinHash (KMV)                       |
 | [MiniMap2](https://github.com/lh3/minimap2)              | read alignment                   | Minimizer   
 |
-| [SeqOthello](https://github.com/LiuBioinfo/SeqOthello) | sequence index and search | Minimum Perfect Hashing (Othello)
+| [SeqOthello](https://github.com/LiuBioinfo/SeqOthello)   | sequence index and search | Minimum Perfect Hashing (Othello)
 |
 | [Sequence Bloom Trees](https://github.com/Kingsford-Group/bloomtree) | sequence index and search | Bloom filter
 |
